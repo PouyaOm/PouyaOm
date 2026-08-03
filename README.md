@@ -36,7 +36,7 @@ Interests     :: Computer Vision
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,go,linux,git,docker,postgres.numpy,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,go,linux,git,docker,postgres,numpy,tensorflow"/>
 
 </div>
 
@@ -68,6 +68,5 @@ Interests     :: Computer Vision
 
 </div>
 
-</div>c="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FFFFFF,100:F5F5F5"/>
 
 </div>
