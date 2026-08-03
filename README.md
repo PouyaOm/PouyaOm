@@ -4,8 +4,6 @@
 
 # 影 (Kage)
 
-### *"Power doesn't announce itself."*
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Researcher;Linux+Enthusiast;Backend+Developer;Always+Learning"/>
 
 </div>
@@ -19,17 +17,15 @@
 
 Name          :: Pouya Omidi
 
-Education     :: B.Sc. Computer Science
+Education     :: B.Sc. Computer Engineering
 
 University    :: Bu-Ali Sina University
 
 Current Focus :: Artificial Intelligence
 
-Interests     :: NLP
-                 Deep Learning
+Interests     :: Computer Vision
+                 ML
                  Backend Systems
-                 Open Source
-                 Linux
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
@@ -40,124 +36,9 @@ Interests     :: NLP
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,go,java,linux,bash,git,docker,postgres,mysql,mongodb,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,go,linux,git,docker,postgres,mysql,mongodb"/>
 
 </div>
-
----
-
-# Philosophy
-
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Fail();
-
-    Improve();
-
-}
-```
-
----
-
-# Current Mission
-
-```diff
-+ Research in Artificial Intelligence
-
-+ Publish quality projects
-
-+ Contribute to Open Source
-
-+ Prepare for Graduate School
-
-+ Become a better engineer every day
-```
-
----
-
-# GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&show_icons=true&bg_color=00000000"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Featured Projects
-
-```text
-📂 AI Research
-
-│
-├── Natural Language Processing
-├── Machine Learning
-├── Deep Learning
-└── Future Publications
-
-
-📂 Backend
-
-│
-├── REST APIs
-├── Databases
-├── Docker
-└── Linux Deployment
-
-
-📂 University
-
-│
-├── Operating Systems
-├── Data Structures
-├── Algorithms
-└── Databases
-```
-
----
-
-# Terminal
-
-```bash
-$ whoami
-
-Pouya Omidi
-
-$ cat interests.txt
-
-Artificial Intelligence
-Backend Engineering
-Linux
-Open Source
-
-$ uptime
-
-Learning...
-```
 
 ---
 
@@ -165,9 +46,9 @@ Learning...
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![www.linkedin.com/in/pouya-omidi](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Pouya.omidi05@gmail.com](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
