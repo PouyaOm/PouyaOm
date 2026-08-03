@@ -28,3 +28,42 @@ Interests     :: Computer Vision
                  Backend Systems
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,go,linux,git,docker,postgres,mysql,mongodb"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+[![www.linkedin.com/in/pouya-omidi](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![Pouya.omidi05@gmail.com](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+### 静
+
+*"The moon never competes with the sun.*
+
+*It simply shines when its time comes."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FFFFFF,100:F5F5F5"/>
+
+</div>
