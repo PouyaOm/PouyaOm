@@ -5,7 +5,7 @@
 
 <!-- Typing animation tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Bebas+Neue&size=26&duration=2600&pause=800&color=FF5B22&center=true&vCenter=true&width=600&lines=Systems+%2B+Databases+%2B+AI;Never+give+up%2C+that%27s+my+way;CS+Student+%40+Bu-Ali+Sina+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Bebas+Neue&size=26&duration=2600&pause=800&color=FF5B22&center=true&vCenter=true&width=600&lines=Computer+Vision+%2B+Machine+Learning;Never+give+up%2C+that%27s+my+way;CS+Student+%40+Bu-Ali+Sina+University" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,9 +18,8 @@
 ## 🔥 About Me
 
 - 🎓 Final-year CS student, Bu-Ali Sina University — graduating June 2027
-- 🧪 Teaching Assistant — Database Systems
-- 🧠 Researching AI/ML alongside a professor at my university
-- ⚙️ Into systems programming, databases, and distributed systems
+- 🧠 Researching Computer Vision & Machine Learning alongside a professor at my university
+- ⚔️ Focused on ML/CV — model design, training, and real-world applications
 - 📫 *(add your contact / links here)*
 
 <br>
@@ -32,10 +31,10 @@
 <div align="center">
 
 <!-- swap/add badges as needed -- shields.io, orange/red theme to match banner -->
-<img src="https://img.shields.io/badge/-C%2B%2B-FF5B22?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-D62828?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQL-F77F00?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-FF5B22?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PyTorch-D62828?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OpenCV-F77F00?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </div>
 
