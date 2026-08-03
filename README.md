@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,100:161616&text=POUYA%20OMIDI&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Computer%20Science%20•%20Artificial%20Intelligence%20•%20Backend%20Engineering&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:000000,100:161616&text=POUYA%20OMIDI&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Computer%20Engineering%20•%20Artificial%20Intelligence%20•%20Backend%20Engineering&descAlignY=58&animation=fadeIn"/>
 
 # 影 (Kage)
 
