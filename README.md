@@ -36,7 +36,7 @@ Interests     :: Computer Vision
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,go,linux,git,docker,postgres,numpy,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,go,linux,git,docker,postgres,tensorflow"/>
 
 </div>
 
