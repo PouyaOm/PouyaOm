@@ -16,7 +16,7 @@
 
 <img src="./avi-ascii.svg" width="700" alt="Pouya Omidi">
 
-
+```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Name          :: Pouya Omidi
@@ -32,6 +32,7 @@ Interests     :: Computer Vision
                  Backend Systems
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
