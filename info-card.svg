@@ -1,17 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="212">
-  <rect width="490" height="212" fill="#0d1117" rx="8"/>
-  <text x="20" y="30" font-family="monospace" font-size="16" fill="#58a6ff">┌──(PouyaOm㉿github)-[~]</text>
-  <text x="20" y="50" font-family="monospace" font-size="14" fill="#58a6ff">└─$ whoami</text>
-  
-  <text x="30" y="80" font-family="monospace" font-size="13" fill="#ff7b72">Now:</text>
-  <text x="100" y="80" font-family="monospace" font-size="13" fill="#f0e6d0">Building cool stuff</text>
-  
-  <text x="30" y="105" font-family="monospace" font-size="13" fill="#ff7b72">Prev:</text>
-  <text x="100" y="105" font-family="monospace" font-size="13" fill="#f0e6d0">Self-taught developer</text>
-  
-  <text x="30" y="130" font-family="monospace" font-size="13" fill="#ff7b72">Stack:</text>
-  <text x="100" y="130" font-family="monospace" font-size="13" fill="#f0e6d0">Python, JavaScript, React</text>
-  
-  <text x="30" y="155" font-family="monospace" font-size="13" fill="#ff7b72">Highlights:</text>
-  <text x="100" y="155" font-family="monospace" font-size="13" fill="#f0e6d0">Open source contributor</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="312" viewBox="0 0 480 312" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace">
+<style>text{shape-rendering:geometricPrecision;} .msg{font-style:italic;}</style>
+<rect x="0.5" y="0.5" width="479" height="311" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="32" font-size="13" fill="#d29922">commit</text>
+<text x="82" y="32" font-size="13" fill="#58a6ff">9f3a1c7</text>
+<text x="141" y="32" font-size="13" fill="#7d8590">(HEAD -&gt; main)</text>
+<text x="24" y="52" font-size="13" fill="#7d8590">Author:</text>
+<text x="88" y="52" font-size="13" fill="#e6edf3">PouyaOm</text>
+<text x="24" y="72" font-size="13" fill="#7d8590">Date:</text>
+<text x="88" y="72" font-size="13" fill="#e6edf3">Thu Aug 13 2026</text>
+<text class="msg" x="40" y="104" font-size="14" fill="#e6edf3">Building cool stuff, one commit at a time.</text>
+<line x1="24" y1="122" x2="456" y2="122" stroke="#30363d"/>
+<text x="24" y="146" font-size="12" fill="#7d8590">@@ <tspan fill="#58a6ff">profile.card</tspan> @@</text>
+<text x="24" y="174" font-size="13" fill="#3fb950">+</text>
+<text x="40" y="174" font-size="13" fill="#7d8590">role  </text>
+<text x="112" y="174" font-size="13" fill="#e6edf3">Self-taught developer</text>
+<text x="24" y="198" font-size="13" fill="#3fb950">+</text>
+<text x="40" y="198" font-size="13" fill="#7d8590">stack </text>
+<text x="112" y="198" font-size="13" fill="#e6edf3">Python · JavaScript · React</text>
+<text x="24" y="222" font-size="13" fill="#3fb950">+</text>
+<text x="40" y="222" font-size="13" fill="#7d8590">focus </text>
+<text x="112" y="222" font-size="13" fill="#e6edf3">Open source contributor</text>
+<text x="24" y="246" font-size="13" fill="#3fb950">+</text>
+<text x="40" y="246" font-size="13" fill="#7d8590">status</text>
+<text x="112" y="246" font-size="13" fill="#e6edf3">Shipping something new</text>
+<line x1="24" y1="272" x2="456" y2="272" stroke="#30363d"/>
+<text x="24" y="294" font-size="11" fill="#484f58">4 fields changed, 4 insertions(+)</text>
+<text x="456" y="294" font-size="11" fill="#58a6ff" text-anchor="end">@PouyaOm</text>
 </svg>
