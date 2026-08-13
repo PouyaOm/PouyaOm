@@ -12,12 +12,11 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <img src="./avi-ascii.svg" width="370" alt="ASCII portrait" />
+    <td>
+      <img src="./avi-ascii.svg" width="370" alt="ASCII portrait">
     </td>
-
-    <td valign="top">
-      <img src="./info-card.svg" width="480" alt="Profile card" />
+    <td>
+      <img src="./info-card.svg" width="480" alt="Profile card">
     </td>
   </tr>
 </table>
