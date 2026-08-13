@@ -21,7 +21,11 @@
   </tr>
 </table>
 
+</div>
+
 <br><br>
+
+<div align="center">
 
 ### 🛠️ Tech Stack & Connect
 
