@@ -10,12 +10,12 @@ routine updates.
 from html import escape
 
 # ---- content -------------------------------------------------------------
-HANDLE = "PouyaOm"
+HANDLE = "Pouya Omidi"
 GREETING = f"Hey, I'm {HANDLE}"
-TAGLINE = "Self-taught developer building cool stuff"
-SKILLS = ["Python", "JavaScript", "React"]
+TAGLINE = "University Student Interested In AI"
+SKILLS = ["Python", "SQL", "Math"]
 FOCUS = "Open source contributor"
-STATUS = "Currently building something new"
+STATUS = "Currently working on research"
 
 # ---- palette (dark, muted jewel tones) ------------------------------------
 GRAD_STOPS = [("0%", "#0B1120"), ("55%", "#111827"), ("100%", "#1E1B4B")]

@@ -37,14 +37,14 @@
 </g>
 <rect x="0.5" y="0.5" width="479" height="299" rx="24" fill="none" stroke="rgba(255,255,255,0.10)"/>
 
-<text x="28" y="52" font-size="24" font-weight="800" fill="#E5E7EB"><tspan class="wave">👋</tspan> Hey, I&#x27;m PouyaOm</text>
-<text x="28" y="80" font-size="14" fill="rgba(229,231,235,0.62)">Self-taught developer building cool stuff</text>
+<text x="28" y="52" font-size="24" font-weight="800" fill="#E5E7EB"><tspan class="wave">👋</tspan> Hey, I&#x27;m Pouya Omidi</text>
+<text x="28" y="80" font-size="14" fill="rgba(229,231,235,0.62)">University Student Interested In AI</text>
 <rect x="28" y="108" width="76" height="30" rx="15.0" fill="rgba(59,130,246,0.14)" stroke="rgba(96,165,250,0.4)"/><text x="66" y="128" font-size="13" font-weight="700" fill="#93C5FD" text-anchor="middle">Python</text>
-<rect x="114.36" y="108" width="109" height="30" rx="15.0" fill="rgba(16,185,129,0.14)" stroke="rgba(52,211,153,0.4)"/><text x="169" y="128" font-size="13" font-weight="700" fill="#6EE7B7" text-anchor="middle">JavaScript</text>
-<rect x="232.96" y="108" width="68" height="30" rx="15.0" fill="rgba(244,63,94,0.14)" stroke="rgba(251,113,133,0.4)"/><text x="267" y="128" font-size="13" font-weight="700" fill="#FDA4AF" text-anchor="middle">React</text>
+<rect x="114.36" y="108" width="52" height="30" rx="15.0" fill="rgba(16,185,129,0.14)" stroke="rgba(52,211,153,0.4)"/><text x="140" y="128" font-size="13" font-weight="700" fill="#6EE7B7" text-anchor="middle">SQL</text>
+<rect x="176.54" y="108" width="60" height="30" rx="15.0" fill="rgba(244,63,94,0.14)" stroke="rgba(251,113,133,0.4)"/><text x="207" y="128" font-size="13" font-weight="700" fill="#FDA4AF" text-anchor="middle">Math</text>
 <rect x="28" y="152" width="230" height="30" rx="15.0" fill="rgba(217,119,6,0.14)" stroke="rgba(251,191,36,0.4)"/><text x="143" y="172" font-size="13" font-weight="700" fill="#FCD34D" text-anchor="middle">🌱 Open source contributor</text>
 <circle class="dot" cx="33" cy="200" r="5" fill="#34D399"/>
-<text x="48" y="204" font-size="13" fill="rgba(229,231,235,0.62)">Currently building something new</text>
-<text x="28" y="274" font-size="14" font-weight="700" fill="#60A5FA">@PouyaOm</text>
-<path class="underline" d="M28 280 q 38 8 76 0" stroke="#60A5FA" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<text x="48" y="204" font-size="13" fill="rgba(229,231,235,0.62)">Currently working on research</text>
+<text x="28" y="274" font-size="14" font-weight="700" fill="#60A5FA">@Pouya Omidi</text>
+<path class="underline" d="M28 280 q 55 8 110 0" stroke="#60A5FA" stroke-width="2.5" fill="none" stroke-linecap="round"/>
 </svg>
