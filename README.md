@@ -12,15 +12,11 @@
 
 # About Me
 
-<table>
-  <tr>
-    <td width="45%" align="center" valign="middle">
-      <img src="./avi-ascii.svg" width="400" alt="Pouya Omidi ASCII portrait">
-    </td>
+<div align="center">
 
-    <td width="55%" valign="middle">
+<img src="./avi-ascii.svg" width="700" alt="Pouya Omidi">
 
-<pre>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Name          :: Pouya Omidi
@@ -36,11 +32,8 @@ Interests     :: Computer Vision
                  Backend Systems
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</pre>
 
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
@@ -58,13 +51,9 @@ Interests     :: Computer Vision
 
 <div align="center">
 
-<a href="https://linkedin.com/in/pouya-omidi">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pouya-omidi)
 
-<a href="mailto:Pouya.omidi05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pouya.omidi05@gmail.com)
 
 </div>
 
