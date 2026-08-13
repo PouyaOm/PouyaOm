@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="212">
+<style>text { font: 4px monospace; fill: #d4d4d4; }</style>
+<text x="0" y="4">                                   .`:--:`.                                                         </text>
+<text x="0" y="8">                                .:==`:::```::`..                                                    </text>
+<text x="0" y="12">                            .::`:.. .      ...::--`                                                 </text>
+<text x="0" y="16">                          .:--.                 .`==`                                               </text>
+<text x="0" y="20">                         :+`                      ..::                                              </text>
+<text x="0" y="24">                        :=.                         .=.                                             </text>
+<text x="0" y="28">                        =+                           ::                                             </text>
+<text x="0" y="32">                        +-                           `:                                             </text>
+<text x="0" y="36">                       .c:         ..               .-:                                             </text>
+<text x="0" y="40">                       `c+-` ``    :+.              `+.                                             </text>
+<text x="0" y="44">                       .=cc: `=`...:c+`             `=                                              </text>
+<text x="0" y="48">                         :**`-+:`=.+c-              .=                                              </text>
+<text x="0" y="52">                          `s#s*++c=c*-. .            ==-.                                           </text>
+<text x="0" y="56">                           +sss###s#c=-:::.` .. ..  -cs*+-                                          </text>
+<text x="0" y="60">                            :+c#%###+====:+=-.-``=`.-c*=ss+`.                                       </text>
+<text x="0" y="64">                             .+cs###c+c#*=sc+--=+c*+=--+c=scc=`.                                    </text>
+<text x="0" y="68">                              .*csc+++s*-c##ss+sscc==*+**=c=+*+`                                    </text>
+<text x="0" y="72">                               `-+c*:`:-*s#ss*=cssssss#*-c+-***-:`.....                             </text>
+<text x="0" y="76">                              .`-=-:-+**cc##s*cs#s#####s**cs##scc=-+++=:`..                         </text>
+<text x="0" y="80">                         .`:-=-:-=cs#####ss***css####s*=c#%#s**#%#scc*cc=-`.                        </text>
+<text x="0" y="84">                       .-==++=--*csss######ssc*==s###s*s##*+=+###%%scc#%s*=`                        </text>
+<text x="0" y="88">                      `-=sss*css*++cs##########s=*#ss####*+=+###%%#%%%%%%#*-.                       </text>
+<text x="0" y="92">                     `--s#*=+s%#%############%###c#sc*s%#**+*s%%%%%#%%%%%#s+-.                      </text>
+<text x="0" y="96">                    -=-*##c*c##scc##*++*###s*****#%###s#sss#c*##%###%%##ss#c+:                      </text>
+<text x="0" y="100">                   --*#%#####scss##s--=c####*:-*######c=c#%##+=#s*c%%##*+s##*-                      </text>
+<text x="0" y="104">                  `=c%%###c*cs#%%##+=+*####c**=c%######=*###c++c==c#*c##s#ss+-`                     </text>
+<text x="0" y="108">                  :=s%##c=+s######c+cs#####s#+*######%s=*%%#+*##cc%*-ccccsc*+*=`.                   </text>
+<text x="0" y="112">                   -+csccs%%##%%%###%%######*=###%#####=*s*c*s#%%%%*c##ssssscss*=`                  </text>
+<text x="0" y="116">                    -=c##%###%##sc*cs**c#%#c+*#%#######=**+cc#%%%%#+c*ssssssss##s=:.                </text>
+<text x="0" y="120">                     -+####%##c**+*#s**+*####ssss#%###%c*#%#+c####+*s=csssssc*ccsc=:.               </text>
+<text x="0" y="124">                     `=*#%%#sc**=*#####c++c##c*+*s%##%#+c%#*+=+cc+-###*ccssssccccss+:.              </text>
+<text x="0" y="128">                      -++*cc*cc*c#######*=c#s*c=*s%#####%##c***+#+`s%%#s++*sssssssss*-.             </text>
+<text x="0" y="132">                      .:=*-`=*cs#ssssccc*c###c**s%##%%#%%#%#####%+`-s###s*+csscccc***+-.            </text>
+<text x="0" y="136">                      ``-c*+:+c#s*+***s#%##sc+c#######ss%#c*+##%c:..-s%###s+*s**+=-:-++=`           </text>
+<text x="0" y="140">                     .`:=c+c++*##c+=+*c######*#%######*+##ssc%%*:.   :*s#%#ccs*+-:```:=+=`.         </text>
+<text x="0" y="144">                     .`:=s=#s=*s###sc**s###csc*s#####*=s######*`.      `=*cs#c*+=:`...`:-:.         </text>
+<text x="0" y="148">                      .`+#-*s+=s#####c+*s##s#c+*c###c+c%#####+`          .:-=-==-:`..``:``          </text>
+<text x="0" y="152">                      .`+#+=sc=*######c=s###sc***##s+c#sc*c#c`             .`````:`.````:`          </text>
+<text x="0" y="156">                       .+c**s#scs#%###s**s###scc#%#c*##c=**c=              .`...`::``````.          </text>
+<text x="0" y="160">                       .-s+=c##cs##%#sc*s##%##ccss**s##c*c+:.              ... .```````.`.          </text>
+<text x="0" y="164">                       `=s+**s%c+cc#%c+sss#scc+++=+**s#s+=`                 ......``.....           </text>
+<text x="0" y="168">                      .:*s**=s%s+*cs##c**+=+****+*c**cc+:.                  ...........`.           </text>
+<text x="0" y="172">                      .-ss+++s###sscc#%#c+=*ccsc*scc*::.                     .......```..           </text>
+<text x="0" y="176">                      `+#sc=s%%%%#cs##sc++c**c***scc`.                        ......``...           </text>
+<text x="0" y="180">                      :c#=*s%%%#ss#%s++cc*ccc*++ccs-.                         .......```            </text>
+<text x="0" y="184">                     .`*+*#####s#%#s-+*cccc*==+*scs:.                         .``....``.            </text>
+<text x="0" y="188">                     .:+=ss*****s%#s=sc*css++++csc#-                          .``....``             </text>
+<text x="0" y="192">                      .-***cccss###c*ccsssc+=*ccss#-                         .``...``:`             </text>
+<text x="0" y="196">                       =#######%##s*ssccssc+-*cs#s#=                        .``....``:`             </text>
+<text x="0" y="200">                       .-*s###%#c*s*+c#ssssc+c*cs##=                       ...`...```:`             </text>
+<text x="0" y="204">                         `*#%%#%%#cc*+ccssssccss+-.                       ........``..`.            </text>
+<text x="0" y="208">                           .:+cs###%#c******+-.                          ..  ......`....            </text>
+<text x="0" y="212">                                .`:::::`.                                ................           </text>
+</svg>
