@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm PouyaOm
+# 👋 Hi, I'm Pouya Omidi
 
 ### 📊 My contributions
 <img src="./contrib-heatmap.svg" alt="Contribution activity" />
